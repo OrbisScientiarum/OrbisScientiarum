@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "assets": {
+    "image-munwigxj-zw4sr16mrr": {
+      "id": "image-munwigxj-zw4sr16mrr",
+      "source": "url:https://pinegrow.com/placeholders/img13.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:936c39b17c74ee0861cc6cd93828277b3bcc639f3c8a4f2fa9f02a29fe81301b",
+      "available": true
+    },
+    "image-munwixkt-1l1z0l1cmyj": {
+      "id": "image-munwixkt-1l1z0l1cmyj",
+      "source": "project:banner.png",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:79489614891f5c4d7042845c63fa2eafb1ff3399f94ff5e6e7ab540ac62e26e3",
+      "available": true
+    },
+    "image-munwoi6b-ohsfk7s81gm": {
+      "id": "image-munwoi6b-ohsfk7s81gm",
+      "source": "project:main.svg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:c72fae04cc02ab4410a3f36547fe32d10a46211e164196c77e8968eea19faeff",
+      "available": true
+    },
+    "image-muoruyjg-h1k2xxb6tzo": {
+      "id": "image-muoruyjg-h1k2xxb6tzo",
+      "source": "url:https://pinegrow.com/placeholders/img19.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:8184c22f73f73478f0d24e53b774a44e323605d9f58ef2976f692bfbe6b672ec",
+      "available": true
+    },
+    "image-muosd2l7-3piodoedn0k": {
+      "id": "image-muosd2l7-3piodoedn0k",
+      "source": "url:https://pinegrow.com/placeholders/img11.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:406d80f0b107f09a829e6333b4ef1e6976cdef3effd1c38ad8f968953b885627",
+      "available": true
+    },
+    "image-muotz47h-jv74gg8bgmg": {
+      "id": "image-muotz47h-jv74gg8bgmg",
+      "source": "project:Primerafoto.png",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:b9b5897dbc2b14161f711e7d3e8c74912ab2b0e0e4af5ec38637293f53c5fb22",
+      "available": true
+    },
+    "image-mup2eh12-iamq1cqqhli": {
+      "id": "image-mup2eh12-iamq1cqqhli",
+      "source": "url:https://pinegrow.com/placeholders/img18.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:a74961f261f34e9691906408ff1c10334eb226765926e790791e04eb572d3748",
+      "available": true
+    },
+    "image-mup2er2t-cbp0qvib6rh": {
+      "id": "image-mup2er2t-cbp0qvib6rh",
+      "source": "project:banner_e1.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:fd989c11ccec1e12982995561d90b7d243647aa8ec290289d0442cf6502543a5",
+      "available": true
+    },
+    "image-mup3ixsu-y8xygw4hnc": {
+      "id": "image-mup3ixsu-y8xygw4hnc",
+      "source": "url:https://pinegrow.com/placeholders/img17.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:c97484efe507bd63134da80260aa5d90bdd78977dfeea14cab19d5f51796dbfa",
+      "available": true
+    },
+    "image-mup3j4ep-ajf1ws67pf": {
+      "id": "image-mup3j4ep-ajf1ws67pf",
+      "source": "project:Tlanextli.svg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:b8d4bb810f5e1840c29a2f5019670221be568d3e1f0368c4d28d37dc25aec991",
+      "available": true
+    }
+  },
+  "sources": {
+    "url:https://pinegrow.com/placeholders/img13.jpg": {
+      "asset": "image-munwigxj-zw4sr16mrr",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:banner.png": {
+      "asset": "image-munwixkt-1l1z0l1cmyj",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:main.svg": {
+      "asset": "image-munwoi6b-ohsfk7s81gm",
+      "kind": "original",
+      "cropToken": null
+    },
+    "url:https://pinegrow.com/placeholders/img19.jpg": {
+      "asset": "image-muoruyjg-h1k2xxb6tzo",
+      "kind": "original",
+      "cropToken": null
+    },
+    "url:https://pinegrow.com/placeholders/img11.jpg": {
+      "asset": "image-muosd2l7-3piodoedn0k",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:Primerafoto.png": {
+      "asset": "image-muotz47h-jv74gg8bgmg",
+      "kind": "original"
+    },
+    "project:Primerafoto.w800-c0.jpg": {
+      "asset": "image-muotz47h-jv74gg8bgmg",
+      "kind": "resize",
+      "cropToken": "0"
+    },
+    "project:Primerafoto.w1200-c0.jpg": {
+      "asset": "image-muotz47h-jv74gg8bgmg",
+      "kind": "resize",
+      "cropToken": "0"
+    },
+    "project:Primerafoto.w1200-h400-c1.jpg": {
+      "asset": "image-muotz47h-jv74gg8bgmg",
+      "kind": "crop",
+      "cropToken": "1"
+    },
+    "project:Primerafoto.w1600-h443-c800_515.jpg": {
+      "asset": "image-muotz47h-jv74gg8bgmg",
+      "kind": "crop",
+      "cropToken": "800_515"
+    },
+    "url:https://pinegrow.com/placeholders/img18.jpg": {
+      "asset": "image-mup2eh12-iamq1cqqhli",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:banner_e1.jpg": {
+      "asset": "image-mup2er2t-cbp0qvib6rh",
+      "kind": "original",
+      "cropToken": null
+    },
+    "url:https://pinegrow.com/placeholders/img17.jpg": {
+      "asset": "image-mup3ixsu-y8xygw4hnc",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:Tlanextli.svg": {
+      "asset": "image-mup3j4ep-ajf1ws67pf",
+      "kind": "original",
+      "cropToken": null
+    }
+  }
+}
